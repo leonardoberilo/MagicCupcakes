@@ -6,3 +6,4 @@ Projeto funciona dentro de uma loja online de cupcakes onde são testados suas f
 ### Informações Adicionais
 
 - Link do site: [MagicalCupcakes](https://magiccupcakes.me/)
+- Site criado usando o método No-Code 
