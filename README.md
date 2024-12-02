@@ -6,4 +6,6 @@ Projeto funciona dentro de uma loja online de cupcakes onde são testados suas f
 ### Informações Adicionais
 
 - Link do site: [MagicCupcakes](https://magiccupcakes.me/)
-- Site criado usando o método No-Code 
+- Site criado usando o método No-Code na plataforma da Hostinger que também foi possível criar o banco de dados.
+- Hospedagem: Hostinger 
+
